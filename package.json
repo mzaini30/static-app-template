@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "static-app",
+  "app-name": "Web App",
+  "package-name": "static_app",
+  "project-type": "static",
+  "icon": "./assets/icon/icon.png",
+  "dist-path": "./dist",
+  "permission": [
+    "android.permission.INTERNET"
+  ],
+  "description": "",
+  "author": "",
+  "license": "ISC"
+}
